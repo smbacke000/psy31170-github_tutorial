@@ -1,6 +1,5 @@
 # Psych 31170 Github tutorial
 
-We'll do the following steps together:
 1. Fork this repository to your account
 2. Navigate to code->spring 2019 folder
 3. click on create new file
